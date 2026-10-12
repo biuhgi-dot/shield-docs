@@ -1,0 +1,8 @@
+title: Shield docs
+description: Private swaps at one price. How Shield works, the modes, the bot, statuses, FAQ and policies.
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
